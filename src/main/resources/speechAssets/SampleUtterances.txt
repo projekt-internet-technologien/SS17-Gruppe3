@@ -1,0 +1,7 @@
+StatusIntent wie ist der Status von {Type}
+StatusIntent wie ist der Status vom {Type}
+StatusIntent wie ist der Status vom Typ {Type}
+StatusIntent wie ist der Status vom Typ {Type}
+StatusIntent Status von {Type}
+StatusIntent Status vom {Type}
+StatusIntent Status vom Typ {Type}

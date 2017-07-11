@@ -1,0 +1,22 @@
+{
+  "intents": [
+    {
+      "intent": "StatusIntent",
+      "slots": [
+        {
+          "name" : "Type",
+          "type": "LIST_OF_TYPES"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
